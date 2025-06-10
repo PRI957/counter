@@ -1,0 +1,18 @@
+.container{
+    text-align: center;
+    font-family: monospace;
+}
+button{
+    background-color: blue;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: large;
+}
+h2{
+    margin-top: 50px;
+    font-size: 50px;
+}
